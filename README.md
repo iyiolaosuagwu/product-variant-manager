@@ -7,6 +7,8 @@ A responsive product and variant management application inspired by Shopify's cl
 ![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843374/Screenshot_2025-05-10_at_03.00.47_aumxom.png)
 ![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843374/Screenshot_2025-05-10_at_03.02.11_jec5cw.png)
 ![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843373/Screenshot_2025-05-10_at_03.04.58_x5mekl.png)
+![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843605/Screenshot_2025-05-10_at_03.19.35_pg6s38.png)
+![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843603/Screenshot_2025-05-10_at_03.19.49_kvpwij.png)
 
 ## Features
 
