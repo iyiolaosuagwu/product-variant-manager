@@ -2,6 +2,12 @@
 
 A responsive product and variant management application inspired by Shopify's clean interface. Built with React, TypeScript, React Query, and Shadcn UI.
 
+![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843374/Screenshot_2025-05-10_at_03.15.53_pgnkop.png)
+![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843371/Screenshot_2025-05-10_at_03.01.43_vtwvci.png)
+![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843374/Screenshot_2025-05-10_at_03.00.47_aumxom.png)
+![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843374/Screenshot_2025-05-10_at_03.02.11_jec5cw.png)
+![Product Variant Manager Screenshot](https://res.cloudinary.com/iyiola/image/upload/v1746843373/Screenshot_2025-05-10_at_03.04.58_x5mekl.png)
+
 ## Features
 
 -   **Product Management**: Add, edit, and delete products
@@ -61,7 +67,7 @@ yarn dev
 
 4. **Open the application**
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+Open [https://product-variant-manager-one.vercel.app/](https://product-variant-manager-one.vercel.app/) in your browser to see the application.
 
 ## API Integration
 
